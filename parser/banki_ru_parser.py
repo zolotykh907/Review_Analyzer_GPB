@@ -79,6 +79,7 @@ def safe_request(url, max_retries=3):
     
     return None
 
+
 if __name__ == "__main__":
     import requests
     import time

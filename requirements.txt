@@ -1,3 +1,11 @@
 pandas
 bs4
 requests
+
+bertopic
+sentence_transformers
+umap
+hdbscan
+scikit-learn
+matplotlib
+nltk
